@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+.h {
+    height: 200px;
+}
+.hei {
+    height: 800px;
+
+}
+.ce {
+    margin-top: 300px;
+    color: white;
+}
+.p-color {
+    color: red !important;
+}
+.second-div{
+    height: 800px;
+}
+.third-div {
+    height: 500px;
+}
